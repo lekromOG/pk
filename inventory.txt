@@ -1,6 +1,6 @@
 Yacht Sea-Ray 16-07-2021 1000000 26
 Jet_ski Yamaha 13-11-2023 20000 27
 Yacht Beneteau 28-05-2020 2999000 28
-28Motorboat Yamaha 06-12-2018 47800 2
+Motorboat Yamaha 06-12-2018 47800 2
 Dinghy Boston-Whaler 14-03-2023 72900 4
 Sailboat Boston-Whaler 08-04-2021 70000 8
