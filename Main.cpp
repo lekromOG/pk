@@ -121,8 +121,8 @@ public:
         std::ofstream file(filename.ToStdString(), std::ios::app); 
         if (file.is_open()) {
             for (const auto& boat : boats) {
-                file << boat.model.ToStdString() << " " << boat.manufacturer.ToStdString() << " "
-                    << boat.creationDate.ToStdString() << " " << boat.price.ToStdString() << " " << boat.id.ToStdString() << std::endl;
+                file << std::endl << boat.model.ToStdString() << " " << boat.manufacturer.ToStdString() << " "
+                    << boat.creationDate.ToStdString() << " " << boat.price.ToStdString() << " " << boat.id.ToStdString();
             }
             file.close();
         }
@@ -132,8 +132,8 @@ public:
         std::ofstream file(filename.ToStdString(), std::ios::trunc); 
         if (file.is_open()) {
             for (const auto& boat : boats) {
-                file << boat.model.ToStdString() << " " << boat.manufacturer.ToStdString() << " "
-                    << boat.creationDate.ToStdString() << " " << boat.price.ToStdString() << " " << boat.id.ToStdString() << std::endl;
+                file << std::endl << boat.model.ToStdString() << " " << boat.manufacturer.ToStdString() << " "
+                    << boat.creationDate.ToStdString() << " " << boat.price.ToStdString() << " " << boat.id.ToStdString();
             }
             file.close();
         }

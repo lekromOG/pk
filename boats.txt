@@ -9,7 +9,6 @@ Kayak Malibu-Boats 22-08-2021 284844 11
 Jet_ski Yamaha 12-07-2019 29299 12
 Canoe Grady-White 02-05-2023 120000 13
 Motorboat Jeanneau 09-11-2020 99999 14
-Kayak Chaparral 18-06-2018 20000 15
 Kayak Chaparral 30-04-2022 20000 16
 Pontoon_boat Tracker 11-03-2021 39999 17
 Dinghy Boston-Whaler 07-12-2019 59999 18
@@ -20,3 +19,4 @@ Houseboat Beneteau 01-09-2018 679000 22
 Yacht Sea-Ray 16-07-2021 1000000 23
 Jet_ski Yamaha 13-11-2023 20000 24
 Yacht Beneteau 28-05-2020 2999000 25
+Sailboat Boston-Whaler 08-04-2021 70000 8
