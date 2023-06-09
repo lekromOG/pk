@@ -1,7 +1,6 @@
 Motorboat Sea-Ray 17-09-2022 62500 1
 Sailboat Bayliner 29-07-2021 89200 3
 Pontoon_boat Tracker 25-10-2020 105600 5
-Kayak Chaparral 03-06-2019 50000 6
 Canoe Bayliner 19-11-2022 26000 7
 Motorboat Sea-Ray 27-05-2023 124999 9
 Yacht Yamaha 10-01-2020 500000 10
@@ -20,3 +19,4 @@ Yacht Sea-Ray 16-07-2021 1000000 23
 Jet_ski Yamaha 13-11-2023 20000 24
 Yacht Beneteau 28-05-2020 2999000 25
 Sailboat Boston-Whaler 08-04-2021 70000 8
+Kayak Chaparral 03-06-2019 50000 6

@@ -135,7 +135,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="builder.cpp" />
+    <ClCompile Include="buy.cpp" />
+    <ClCompile Include="credits.cpp" />
+    <ClCompile Include="essentials.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="rent.cpp" />
+    <ClCompile Include="sell.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="boats.txt" />
